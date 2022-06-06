@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: homepage
 permalink: /
 author_profile: true
 author: "Cisco IOS XR Security Team" 
