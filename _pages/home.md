@@ -3,8 +3,6 @@ layout: homepage
 permalink: /
 author_profile: true
 author: "Cisco IOS XR Security Team" 
-sitemap: true
-date: null
 
 feature_row1:
   - image_path: techdoc.jpg
