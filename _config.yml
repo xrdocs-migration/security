@@ -12,7 +12,7 @@ title_short              : "Security"
 title_separator          : "|"
 name                     : &name "Cisco Systems Inc"
 description              : &description "Documentation, Blogs and Tutorials on Cloud Scale Networking with IOS-XR"
-url                      : "https://xrdocs.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://d101lr0mb7xh5s.cloudfront.net"
 baseurl                  : "/security" # the subpath of your site, e.g. "/blog"
 gh_repo                  : "https://github.com/xrdocs/security"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -286,8 +286,8 @@ tags:
 
 
 prose:
-  siteurl: 'https://xrdocs.github.io/security/'
-  relativeLinks: 'https://xrdocs.github.io/security/links.jsonp'
+  siteurl: 'https://d101lr0mb7xh5s.cloudfront.net/security/'
+  relativeLinks: 'https://d101lr0mb7xh5s.cloudfront.net/security/links.jsonp'
   media: 'images'
   ignore:
     - index.md
